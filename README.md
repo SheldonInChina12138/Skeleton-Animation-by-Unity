@@ -1,4 +1,4 @@
-# Skeleton-Animation-by-Unity
+# GPU instanced Skeleton Animation by Unity
 
 ![image](https://user-images.githubusercontent.com/81029635/179180579-61f16e5e-0668-47a0-a80f-1015fc3ee97b.png)
 
